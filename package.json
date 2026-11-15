@@ -1,0 +1,15 @@
+{
+  "name": "qibla-and-prayer-measurements",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "qibla": "node scripts/qibla.mjs",
+    "prayer": "node scripts/prayer-methods.mjs",
+    "all": "node scripts/qibla.mjs > /dev/null && node scripts/prayer-methods.mjs > /dev/null",
+    "test": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "adhan": "4.4.6"
+  }
+}

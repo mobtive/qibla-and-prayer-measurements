@@ -1,0 +1,9 @@
+city,latitude,fajr_spread_equinox_min,isha_spread_equinox_min,fajr_spread_max_min,fajr_spread_max_date
+"Mecca",21.4225,19,29,24,2026-06-05
+"Cairo",30.0444,22,24,28,2026-06-04
+"Istanbul",41.0082,25,16,43,2026-06-23
+"London",51.5074,32,24,118,2026-07-28
+"Berlin",52.52,32,27,119,2026-08-01
+"Stockholm",59.3293,41,53,130,2026-08-24
+"Reykjavík",64.1466,53,84,138,2026-09-06
+"Tromsø",69.6492,97,153,151,2026-09-20

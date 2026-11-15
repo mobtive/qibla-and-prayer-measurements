@@ -1,0 +1,17 @@
+city,country,latitude,longitude,great_circle_deg,wgs84_geodesic_deg,rhumb_line_deg,sphere_vs_ellipsoid_deg,flat_map_error_deg,published_on
+"Toronto","Canada",43.6532,-79.3832,54.581,54.493,102.614,0.087,48.033,method
+"New York","United States",40.7128,-74.006,58.482,58.396,101.281,0.086,42.800,method
+"London","United Kingdom",51.5074,-0.1278,118.987,118.868,133.827,0.119,14.840,method
+"Istanbul","Turkey",41.0082,28.9784,151.621,151.514,154.843,0.107,3.222,method
+"Lagos","Nigeria",6.5244,3.3792,63.330,63.457,67.093,0.127,3.763,method
+"Kuala Lumpur","Malaysia",3.139,101.6869,292.538,292.442,286.904,0.095,5.634,method
+"Nairobi","Kenya",-1.2921,36.8219,7.202,7.249,7.368,0.047,0.167,southern
+"Jakarta","Indonesia",-6.2088,106.8456,295.152,295.025,292.792,0.127,2.360,method|southern
+"São Paulo","Brazil",-23.5505,-46.6333,68.939,69.094,61.891,0.155,7.049,southern
+"Johannesburg","South Africa",-26.2041,28.0473,14.589,14.672,13.488,0.083,1.101,southern
+"Perth","Australia",-31.9505,115.8605,295.392,295.215,306.219,0.176,10.828,southern
+"Sydney","Australia",-33.8688,151.2093,277.500,277.319,297.496,0.181,19.997,method|southern
+"Cape Town","South Africa",-33.9249,18.4241,23.353,23.467,20.241,0.115,3.111,method|southern
+"Buenos Aires","Argentina",-34.6037,-58.3816,76.268,76.444,59.063,0.176,17.205,southern
+"Auckland","New Zealand",-36.8485,174.7633,261.197,260.945,294.547,0.252,33.349,southern
+"Melbourne","Australia",-37.8136,144.9631,278.825,278.639,300.867,0.186,22.042,southern
